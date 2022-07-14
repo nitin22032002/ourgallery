@@ -2,11 +2,11 @@
 
 ### Project Url
   
-  (https://ourgallery.netlify.app/)[https://ourgallery.netlify.app/]
+  https://ourgallery.netlify.app/
   
  ### Backend Url
  
- (https://ourgallery.herokuapp.com)[https://ourgallery.herokuapp.com]
+ https://ourgallery.herokuapp.com
 
 ### Technology Use
   
