@@ -1,4 +1,4 @@
-## ourgallery
+## Our Gallery
 
 ### Project Url
   
