@@ -25,7 +25,7 @@
 
    * path : /  method : POST    discription : Add New Image In Gallery
    
-   * path : /?pageno={1-maxpage}  method : GET    discription : Get Images Of Particular Page
+   * path : /?pageno={1-maxpage}&q={image_name query}  method : GET    discription : Get Images Of Particular Page
    
    * path : /show/:id  method : GET    discription : Get Particular Image
    
