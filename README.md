@@ -2,7 +2,7 @@
 
 ### Project Url
   
-  https://ourgallery.netlify.app/
+  https://oursgallery.netlify.app/
   
  ### Backend Url
  
